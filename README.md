@@ -63,5 +63,3 @@ Login dengan akun yang sudah diberi role `admin`.
 * Pastikan `php artisan storage:link` dijalankan agar gambar tampil.
 * Gunakan Filament untuk mengelola data admin tanpa perlu banyak coding manual.
  -->
-
-hefiehfi
